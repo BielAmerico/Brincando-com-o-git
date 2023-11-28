@@ -9,7 +9,7 @@ public class Calculadora {
 		return x + y;
 	}
 	
-	public int divid(int x, int y) {
+	public int divide(int x, int y) {
 		return x / y;
 	}
 }

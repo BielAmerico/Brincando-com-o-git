@@ -6,7 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CalculadoraMultiplicação {
 
 	public int multiplica(int x , int y) {
-		return x * y;
+		return x + y;
 		
 	}
+		
 }
